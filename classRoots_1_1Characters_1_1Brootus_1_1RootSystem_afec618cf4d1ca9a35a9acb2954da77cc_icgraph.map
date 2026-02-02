@@ -1,4 +1,0 @@
-<map id="Roots.Characters.Brootus.RootSystem.GrowRoot" name="Roots.Characters.Brootus.RootSystem.GrowRoot">
-<area shape="rect" id="node1" title="Grows out the root tendrils and enables the collision&#45;detecting for rooting." alt="" coords="244,5,435,47"/>
-<area shape="rect" id="node2" href="$classRoots_1_1Characters_1_1Brootus_1_1Controller.html#a099c5ecaee0a2cbf6d9732601b1e13ef" title="Update the player state each frame." alt="" coords="5,5,196,47"/>
-</map>

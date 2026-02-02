@@ -1,4 +1,5 @@
 <map id="Roots.Characters.Brootus.RootSystem.Enroot" name="Roots.Characters.Brootus.RootSystem.Enroot">
-<area shape="rect" id="node1" title="Anchors the roots to a substrate ." alt="" coords="255,5,445,47"/>
-<area shape="rect" id="node2" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#a140b106bc0ee300440d4eef3ad1ac4e5" title="When the root collides with a &quot;Ground&quot; object we will enroot." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="Node000001" title="Anchors the roots to a substrate ." alt="" coords="255,5,445,45"/>
+<area shape="rect" id="Node000002" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#a140b106bc0ee300440d4eef3ad1ac4e5" title="When the root collides with a &quot;Ground&quot; object we will enroot." alt="" coords="5,5,207,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,28,207,28,207,23,241,23"/>
 </map>

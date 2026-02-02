@@ -1,6 +1,9 @@
 <map id="Roots.Characters.Brootus.Controller.Update" name="Roots.Characters.Brootus.Controller.Update">
-<area shape="rect" id="node1" title="Update the player state each frame." alt="" coords="5,71,196,112"/>
-<area shape="rect" id="node2" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#afec618cf4d1ca9a35a9acb2954da77cc" title="Grows out the root tendrils and enables the collision&#45;detecting for rooting." alt="" coords="244,5,435,47"/>
-<area shape="rect" id="node3" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#a85cc09c06d12ebbce2ca06d9a0814811" title="Checks if the entity&#39;s roots are grown out and may collide with things." alt="" coords="244,71,435,112"/>
-<area shape="rect" id="node4" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#ad9dd2943328489aff039d3eafc385ab6" title="Breaks off the current root and un&#45;anchors from the rooted substrate." alt="" coords="244,136,435,177"/>
+<area shape="rect" id="Node000001" title="Update the player state each frame." alt="" coords="5,69,196,109"/>
+<area shape="rect" id="Node000002" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#afec618cf4d1ca9a35a9acb2954da77cc" title="Grows out the root tendrils and enables the collision&#45;detecting for rooting." alt="" coords="244,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,67,250,46,252,51,177,72"/>
+<area shape="rect" id="Node000003" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#a85cc09c06d12ebbce2ca06d9a0814811" title="Checks if the entity&#39;s roots are grown out and may collide with things." alt="" coords="244,69,435,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,87,230,87,230,92,196,92"/>
+<area shape="rect" id="Node000004" href="$classRoots_1_1Characters_1_1Brootus_1_1RootSystem.html#ad9dd2943328489aff039d3eafc385ab6" title="Breaks off the current root and un&#45;anchors from the rooted substrate." alt="" coords="244,133,435,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,107,252,127,250,132,175,112"/>
 </map>

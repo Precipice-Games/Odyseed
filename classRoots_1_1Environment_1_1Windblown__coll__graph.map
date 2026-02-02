@@ -1,5 +1,8 @@
 <map id="Roots.Environment.Windblown" name="Roots.Environment.Windblown">
-<area shape="rect" id="node1" title="Governs the behavior of objects susceptible to wind." alt="" coords="5,171,228,197"/>
-<area shape="rect" id="node2" title=" " alt="" coords="49,5,173,32"/>
-<area shape="rect" id="node3" href="$classRoots_1_1Environment_1_1Wind.html" title="Wind force for pushing the player around" alt="" coords="133,81,316,108"/>
+<area shape="rect" id="Node000001" title="Governs the behavior of objects susceptible to wind." alt="" coords="5,168,228,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,173,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,44,119,168,114,168,110,45"/>
+<area shape="rect" id="Node000003" href="$classRoots_1_1Environment_1_1Wind.html" title="Wind force for pushing the player around." alt="" coords="133,80,316,105"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="142,36,208,78,205,82,139,40"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,116,133,170,130,166,198,112"/>
 </map>

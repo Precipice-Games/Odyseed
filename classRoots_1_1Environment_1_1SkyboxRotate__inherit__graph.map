@@ -1,4 +1,5 @@
 <map id="Roots.Environment.SkyboxRotate" name="Roots.Environment.SkyboxRotate">
-<area shape="rect" id="node1" title="Provides a moving sky effect. Attach this to the main camera of the scene." alt="" coords="5,80,203,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="42,5,166,32"/>
+<area shape="rect" id="Node000001" title="Provides a moving sky effect. Attach this to the main camera of the scene." alt="" coords="5,79,203,119"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,166,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,44,107,79,101,79,101,44"/>
 </map>

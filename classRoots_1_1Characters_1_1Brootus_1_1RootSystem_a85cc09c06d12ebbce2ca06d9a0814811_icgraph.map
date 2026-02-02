@@ -1,4 +1,5 @@
 <map id="Roots.Characters.Brootus.RootSystem.HasRoots" name="Roots.Characters.Brootus.RootSystem.HasRoots">
-<area shape="rect" id="node1" title="Checks if the entity&#39;s roots are grown out and may collide with things." alt="" coords="244,5,435,47"/>
-<area shape="rect" id="node2" href="$classRoots_1_1Characters_1_1Brootus_1_1Controller.html#a099c5ecaee0a2cbf6d9732601b1e13ef" title="Update the player state each frame." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="Node000001" title="Checks if the entity&#39;s roots are grown out and may collide with things." alt="" coords="244,5,435,45"/>
+<area shape="rect" id="Node000002" href="$classRoots_1_1Characters_1_1Brootus_1_1Controller.html#a099c5ecaee0a2cbf6d9732601b1e13ef" title="Update the player state each frame." alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,28,196,28,196,23,230,23"/>
 </map>
