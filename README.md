@@ -1,4 +1,4 @@
-# Odyseed - GGJ2023
+# Odyseed
 
 An original game for Global Game Jam 2023, in which the design prompt was "roots".
 
